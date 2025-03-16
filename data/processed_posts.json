@@ -1,0 +1,187 @@
+[
+    {
+        "Text": "Full Stack Development is 80% debugging and 20% questioning your life choices. \ud83d\ude05 #WebDev #FullStack",
+        "Engagement": 789,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Web Development",
+            "Full Stack"
+        ]
+    },
+    {
+        "Text": "Backend engineers be like: 'It works on my machine!' Meanwhile, production: \ud83d\udd25\ud83d\udd25\ud83d\udd25 #BackendDev",
+        "Engagement": 942,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Backend Development"
+        ]
+    },
+    {
+        "Text": "AI isn\u2019t going to replace developers, but developers who use AI will replace those who don\u2019t. #AI #FutureOfWork",
+        "Engagement": 1234,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Future of Work",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "Text": "Deep Learning models are impressive, but do you really need a neural network to classify cats vs. dogs? \ud83e\udd14 #ML #AI",
+        "Engagement": 846,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Machine Learning",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "Text": "Frontend development isn\u2019t just about making things look good. Performance, accessibility, and UX matter just as much. #FrontendDev",
+        "Engagement": 633,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Frontend Development"
+        ]
+    },
+    {
+        "Text": "99% of software engineering is just Googling the right error message. #DeveloperLife",
+        "Engagement": 1512,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Developer Life"
+        ]
+    },
+    {
+        "Text": "Machine learning is easy... until you hit real-world data. #ML #DataScience",
+        "Engagement": 875,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Machine Learning",
+            "Data Science"
+        ]
+    },
+    {
+        "Text": "Git commit messages: 'Fixed bug', 'Actually fixed bug', 'Fixed the bug I thought I fixed'. #DeveloperMemes",
+        "Engagement": 1034,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Developer Memes"
+        ]
+    },
+    {
+        "Text": "Senior engineers write less code but solve bigger problems. Optimize for impact, not lines of code. #SoftwareEngineering",
+        "Engagement": 712,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Software Engineering"
+        ]
+    },
+    {
+        "Text": "Frontend Devs: 'Why is this button 2px off?' Backend Devs: 'Bro, our database is on fire!' \ud83d\udd25\ud83d\ude02 #DevLife",
+        "Engagement": 1421,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Developer Life"
+        ]
+    },
+    {
+        "Text": "Writing clean code isn\u2019t an option, it\u2019s a responsibility. Future-you will thank you! #CodingBestPractices",
+        "Engagement": 689,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Coding Best Practices"
+        ]
+    },
+    {
+        "Text": "ML is not magic. It\u2019s just statistics with fancy marketing. #MachineLearning",
+        "Engagement": 793,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "Text": "Backend engineers don\u2019t hate front-end. We just don\u2019t understand why CSS breaks everything. \ud83d\ude05 #WebDevelopment",
+        "Engagement": 923,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Web Development"
+        ]
+    },
+    {
+        "Text": "\u0906\u091c \u0915\u093e \u0938\u091a: AI projects \u0915\u093e 80% \u091f\u093e\u0907\u092e data cleaning \u092e\u0947\u0902 \u091a\u0932\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u0915\u0940 20% model tuning \u092e\u0947\u0902\u0964 #AI #ML",
+        "Engagement": 1056,
+        "line_count": 1,
+        "language": "Hinglish",
+        "tags": [
+            "Machine Learning",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "Text": "If you\u2019re not using TypeScript in 2024, are you even writing JavaScript? \ud83d\ude1c #FrontendDev",
+        "Engagement": 874,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Frontend Development"
+        ]
+    },
+    {
+        "Text": "Deploying a model is harder than training it. Real-world AI is 90% infrastructure, 10% model tuning. #MLOps",
+        "Engagement": 954,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "MLOps"
+        ]
+    },
+    {
+        "Text": "\u0915\u094d\u092f\u093e \u0906\u092a \u092d\u0940 backend developer \u0939\u094b \u0914\u0930 frontend \u0938\u0947 \u092c\u091a\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f API documentation \u0932\u093f\u0916 \u0926\u0947\u0924\u0947 \u0939\u094b? \ud83d\ude02 #DeveloperLife",
+        "Engagement": 987,
+        "line_count": 1,
+        "language": "Hinglish",
+        "tags": [
+            "Developer Life"
+        ]
+    },
+    {
+        "Text": "Full Stack Developer = Someone who can suffer both frontend and backend issues at the same time. #WebDev",
+        "Engagement": 1112,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Web Development"
+        ]
+    },
+    {
+        "Text": "Your ML model is 95% accurate? Cool. But how does it perform on real-world, messy, unseen data? #ML",
+        "Engagement": 1346,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "Text": "JavaScript frameworks change every month. But SQL and data structures? They last forever. Learn the fundamentals. #SoftwareEngineering",
+        "Engagement": 1183,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Software Engineering"
+        ]
+    }
+]
