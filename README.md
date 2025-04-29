@@ -1,6 +1,6 @@
 #🚀 **GenAi LinkedIn Post Generator for Techies**
 
-#Project Live at: 'https://genai-linkedin-post-generator-for-techies.streamlit.app/'
+#Project Live at: https://genai-linkedin-post-generator-for-techies.streamlit.app/
 
 
 
