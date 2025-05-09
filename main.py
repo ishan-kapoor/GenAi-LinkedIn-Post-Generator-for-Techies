@@ -10,7 +10,7 @@ language_options = ["English", "Hinglish"]
 
 # Main app layout
 def main():
-    st.subheader("📝GenAi LinkedIn Post Generator for Techies: By Ishan Kapoor")
+    st.subheader("📝GenAi LinkedIn Post Generator for Techies: By Ishan Kapoor, Prashant Shukla, Shubham Lakhwan")
     st.write("This tool is built using Streamlit, Meta's llama-3.2, Langchain, Groq and Few-Shot Learning to generate LinkedIn posts for Techeis. For more such tools and projects, visit [https://ishankapoor.netlify.app/]")
     st.write("Select the topic, length, and language of the post. Click on the 'Generate' button to generate a post.")
 
